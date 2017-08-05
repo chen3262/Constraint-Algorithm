@@ -1,6 +1,6 @@
 # Lagrange multipliers-based constraint algorithn
 
-<img src ="https://github.com/chen3262/Constraint-Algorithm/blob/master/demo.png" width="400">
+<img src ="https://github.com/chen3262/Constraint-Algorithm/blob/master/demo.png" width="600">
 This is a Mathematica notebook file (.nb) performing an iterative constraint algorithm on a SPC/E water molecule.
 
 ## Requirements
